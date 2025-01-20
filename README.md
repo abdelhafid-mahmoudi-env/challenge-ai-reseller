@@ -1,4 +1,4 @@
-# Challenge: Building an AI to Filter Emails and Extract Data  
+# Building an AI to Filter Emails and Extract Data  
 
 ## Objective  
 We’re creating an AI solution to process incoming emails, classify them into predefined types, and extract relevant information.  
